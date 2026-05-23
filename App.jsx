@@ -1,4 +1,4 @@
-import { useState, useEffect, useRef } from "react";
+import React from "react";
 
 // ─── FIREBASE CONFIG ──────────────────────────────────────────────────────────
 const FB_URL = "https://turnero-infinito-default-rtdb.firebaseio.com";
